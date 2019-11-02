@@ -89,9 +89,10 @@ header {
 }
 
 .logo {
-  height: 55px;
-  margin-top: 5px;
-  object-position:;
+  top: 10px;
+  width: 200px;
+  height: 85px;
+  object-fit: cover;
 }
 
 .header-left {
